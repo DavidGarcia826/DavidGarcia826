@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! | Passionate Cybersecurity Analyst
+<h1>Hi, I'm David! | Passionate Cybersecurity Professional
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
