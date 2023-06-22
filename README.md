@@ -4,6 +4,9 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/DavidGarcia826/Azure-SOC-Honeynet)
+- <b>Qualys Vulnerability Management Detection & Response / Vulnerability Management Projects</b>
+  - Installed and deployed Qualys Virtual Scanner Appliance and accessed it through the Qualys Cloud Platform
+  - Installed deprecated software on a Win10 VM, ran the vulnerability scan against VM, generated report, and remediated vulnerabilities 
 
 <h2> 🤳 Connect with me:</h2>
 
